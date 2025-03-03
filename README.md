@@ -1,4 +1,3 @@
 # sajha-aawaj
- A replica of common voice for Nepali Language.  
-
- Also transciption of audio to Nepali text through wav2vec 2.0 model.
+ - A data collection and verification platform for voice Nepali Language.  
+ - Transcription of audio to Nepali text through wav2vec 2.0.
